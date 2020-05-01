@@ -1,0 +1,18 @@
+#tc15::before {content: 'Kruger National Park';}
+#tc25::before {content: 'Malelane to Satara';}
+#tc35::before {content: 'November, 2019';}
+#tc14::before {content: 'Limpopo, South Africa';}
+#tc24::before {content: 'Swadini Nature Reserve';}
+#tc34::before {content: 'November, 2019';}
+#tc13::before {content: 'Marakele National Park';}
+#tc23::before {content: 'Marakele Kransberg, Thabazimbi';}
+#tc33::before {content: 'October, 2019';}
+#tc12::before {content: 'South Africa, Botswana, Zambia and Zimbabwe';}
+#tc22::before {content: 'Johannesburg to Victoria Falls by motorcycle';}
+#tc32::before {content: 'August, 2019';}
+#tc11::before {content: 'Kruger National Park';}
+#tc21::before {content: 'Phalaborwa to Orpen';}
+#tc31::before {content: 'May, 2019';}
+
+$ph00:'Overland Wanderes Club';
+#ph01::before {content: $ph00 ;}

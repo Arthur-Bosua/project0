@@ -1,0 +1,21 @@
+.callme, .maynot, .maydo {
+  border: 2px solid;
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px;
+}
+
+.maydo {
+  background-color: green;
+}
+
+.maynot {
+  background-color: red;
+}
+
+.callme {
+  background-color: orange;
+}
